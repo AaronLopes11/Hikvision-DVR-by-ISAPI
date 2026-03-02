@@ -1,0 +1,1 @@
+return Math.round(parseInt(value) / 1024);
